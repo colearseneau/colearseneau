@@ -6,5 +6,5 @@ I am currently a student at [Olivet Nazarene University](https://olivet.edu) (gr
   [Shine Donations](https://securepayment.olivet.edu)  
   [Benner Library Website](https://library.olivet.edu)
   ### Personal
-  [My Personal Site](https://colearseneau.com)
+  [My Personal Site](https://colearseneau.com)  
   [Jani Marie Productions](https://janimarieproductions.com)
