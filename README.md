@@ -3,7 +3,7 @@ I am currently a student at [Olivet Nazarene University](https://olivet.edu) (gr
 
 ## Current Projects
   ### Olivet Nazarene University
-  [Shine Donations](https://securepayment.olivet.edu)  
+  [Shine Donations](https://nekom.olivet.edu/shinetracker/)  
   [Benner Library Website](https://library.olivet.edu)  
   [Health Monitor](https://healthmonitor.olivet.edu)
   ### Personal
